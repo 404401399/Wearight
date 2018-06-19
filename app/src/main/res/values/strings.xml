@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Wearight</string>
+    <string name="app_Cname">穿就對了</string>
+    <string name="email">Email 信箱</string>
+    <string name="password">password 密碼</string>
+
 </resources>
